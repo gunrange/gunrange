@@ -4,7 +4,7 @@
 <img src="https://gifcity.carrd.co/assets/images/gallery79/6e4eea9d.gif?v=26dffab5" alt="guh">
 
 <p align="center">
-<a href=https://rentry.co/zd>
+<a href=https://rentry.co/camo>
   <img src="https://files.catbox.moe/8y1l59.gif" alt="rentry">
 </a>
 <a href=https://caldre.123guestbook.com/>
