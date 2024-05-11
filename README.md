@@ -7,8 +7,5 @@
 <a href=https://rentry.co/camo>
   <img src="https://files.catbox.moe/8y1l59.gif" alt="rentry">
 </a>
-<a href=https://caldre.123guestbook.com/>
-  <img src="https://files.catbox.moe/y965tg.gif" alt="guestbook">
-</a>
 <p align="center">
 <img src="https://64.media.tumblr.com/cbaf5053f6135127b53607a6ef160058/71cc72a5859d854c-d9/s500x750/109b047439084878a78805ea1b70f89f699fec99.pnj">
